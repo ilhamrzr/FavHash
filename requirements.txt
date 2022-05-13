@@ -1,0 +1,5 @@
+urllib3
+termcolor
+mmh3
+requests
+codecs
