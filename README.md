@@ -1,4 +1,4 @@
-# FavHash - Tools for Osint and Bugbounts
+# FavHash - Tools for OSINT and BugBounties
 
 ![FavHash](https://raw.githubusercontent.com/ilhamrzr/FavHash/main/static/FavHash.png)
 
