@@ -8,8 +8,8 @@
 
 Note : Tested with python3.9.9 on Windows/WSL
 
-```tex
-$ https://github.com/ilhamrzr/FavHash
+```
+$ git clone https://github.com/ilhamrzr/FavHash
 $ cd FavHash
 $ pip3 install -r requirements.txt
 $ python3 FavHash.py 
